@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hossamkoky599/Portfolio-/blob/main/assets/images/crop-me.jpg" alt="Hossam Hassan" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/hossamkoky599/Portfolio-/blob/main/assets/images/banner/crop-me.jpg" alt="Hossam Hassan" width="200" style="border-radius: 50%;" />
 </p>
 
 # Hi, I'm Hossam 👋  
